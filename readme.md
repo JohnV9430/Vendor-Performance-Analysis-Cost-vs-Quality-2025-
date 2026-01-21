@@ -172,8 +172,8 @@ vendor-performance-analysis/
 │   ├── vendor_quality_setup.sql
 │   └── vendor_performance_view.sql
 │
-├── dashboard/
-│   └── vendor_performance_dashboard.png
+├── screenshots/
+│   └── dashboard.png
 │
 ├── data/
 │   └── csv_files/
@@ -202,6 +202,7 @@ It reflects a real-world analytics workflow commonly used in operations, finance
 * Include SLA-based scoring
 * Automate refresh using scheduled queries
 * Extend dashboard with cost forecasting
+
 
 
 
