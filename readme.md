@@ -120,7 +120,7 @@ Click the image to view it in full size:
 
 View the live interactive dashboard here:
 
-👉 **(https://lookerstudio.google.com/u/0/reporting/9fc89984-b2ca-44bb-bbdf-d681005bc567/page/T9zlF/edit)**
+👉 **https://lookerstudio.google.com/u/0/reporting/9fc89984-b2ca-44bb-bbdf-d681005bc567/page/T9zlF**
 
 ---
 
@@ -191,4 +191,5 @@ It reflects a real-world analytics workflow commonly used in operations, finance
 * Include SLA-based scoring
 * Automate refresh using scheduled queries
 * Extend dashboard with cost forecasting
+
 
