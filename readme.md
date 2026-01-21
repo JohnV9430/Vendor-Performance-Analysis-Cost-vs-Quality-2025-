@@ -112,7 +112,7 @@ Below is a snapshot of the final dashboard created using **Looker Studio**.
 
 Click the image to view it in full size:
 
-[![Vendor Performance Dashboard](screenshots/Dashboard.png)
+![Vendor Performance Dashboard](screenshots/Dashboard.png)
 ---
 
 ## 🔗 Interactive Dashboard
@@ -190,6 +190,7 @@ It reflects a real-world analytics workflow commonly used in operations, finance
 * Include SLA-based scoring
 * Automate refresh using scheduled queries
 * Extend dashboard with cost forecasting
+
 
 
 
