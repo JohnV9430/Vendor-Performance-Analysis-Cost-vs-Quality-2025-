@@ -122,6 +122,12 @@ View the live interactive dashboard here:
 👉 **https://lookerstudio.google.com/u/0/reporting/9fc89984-b2ca-44bb-bbdf-d681005bc567/page/T9zlF**
 
 ---
+## 📌 How to Use This Dashboard
+- Use the **vendor filter** to analyze individual vendor performance.
+- Compare **cost vs quality metrics** across vendors.
+- Review the **performance tier** to identify top and underperforming vendors.
+- Use the **cost per quality metric** to assess vendor efficiency.
+- The dashboard is interactive and updates dynamically based on selections.
 
 ## 📈 Dashboard Highlights
 
@@ -141,12 +147,18 @@ View the live interactive dashboard here:
 
 ---
 
-## 🧠 Key Insights
+## 🔍 Key Findings & Insights
 
-* The **best-performing vendor** delivers higher quality at a lower relative cost.
-* Higher cost does **not always** translate to better quality.
-* Certain vendors show higher defect rates despite higher spend.
-* Cost-per-quality is the most reliable metric for vendor evaluation.
+- **Vendor 3 emerged as the best-performing vendor**, delivering strong quality at a comparatively lower cost, making it the most cost-efficient option.
+- **Vendor 1 ranked second**, achieving high quality scores but at a significantly higher cost, which reduced overall efficiency.
+- **Vendor 2 performed the weakest**, showing the lowest quality score and the highest cost per quality point.
+- This analysis confirms that **higher spending does not necessarily lead to better quality**.
+- The **cost-per-quality metric** proved to be the most reliable indicator for evaluating vendor performance.
+- Vendor ranking clearly highlighted:
+  - High-performing vendors  
+  - Cost-heavy but quality-driven vendors  
+  - Vendors requiring performance improvement  
+
 
 ---
 
@@ -190,6 +202,7 @@ It reflects a real-world analytics workflow commonly used in operations, finance
 * Include SLA-based scoring
 * Automate refresh using scheduled queries
 * Extend dashboard with cost forecasting
+
 
 
 
