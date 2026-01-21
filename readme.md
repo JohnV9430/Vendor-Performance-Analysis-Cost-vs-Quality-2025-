@@ -176,7 +176,8 @@ vendor-performance-analysis/
 │   └── dashboard.png
 │
 ├── data/
-│   └── csv_files/
+│   └── vendor_payment_report_2025.csv
+│   └── vendor_quality_report_2025.csv
 │
 └── README.md
 ```
@@ -202,6 +203,7 @@ It reflects a real-world analytics workflow commonly used in operations, finance
 * Include SLA-based scoring
 * Automate refresh using scheduled queries
 * Extend dashboard with cost forecasting
+
 
 
 
