@@ -1,8 +1,8 @@
-# 📊 Vendor Performance Analysis – Cost vs Quality (2025)
+# 📊 Vendor Performance Analysis (2025)
 
 ## 📌 Project Overview
 
-This project analyzes vendor performance by comparing **cost vs quality metrics** to identify the most cost-effective vendors.
+This project analyzes vendor performance by comparing **cost** and **quality metrics** to identify the most cost-effective vendors.
 
 The objective is to simulate a real-world vendor evaluation scenario where business decisions are driven by:
 
@@ -203,6 +203,7 @@ It reflects a real-world analytics workflow commonly used in operations, finance
 * Include SLA-based scoring
 * Automate refresh using scheduled queries
 * Extend dashboard with cost forecasting
+
 
 
 
